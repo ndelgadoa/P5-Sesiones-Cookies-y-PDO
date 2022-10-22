@@ -1,0 +1,1 @@
+Basicament farem un blucle if que si la cookie esta creada, que sumi 1 i que es mostri amb un echo i si no esta creada el else la crea
